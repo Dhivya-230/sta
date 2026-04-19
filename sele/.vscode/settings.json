@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": [
+    "rarebeauty-selenium-demo/src/test/java",
+    "rarebeauty-selenium-demo/src/main/java"
+  ]
+}

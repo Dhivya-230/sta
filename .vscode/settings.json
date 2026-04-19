@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "sele/rarebeauty-selenium-demo/src/test/java",
+    "sele/rarebeauty-selenium-demo/src/main/java"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}

@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "./sele/rarebeauty-selenium-demo"
+    }
+  ],
+  "settings": {
+    "java.project.sourcePaths": [
+      "src/test/java",
+      "src/main/java"
+    ]
+  }
+}
