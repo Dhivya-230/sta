@@ -1,0 +1,7 @@
+base\BaseTest.class
+tests\NavigationTest.class
+pages\ReportsPage.class
+pages\NavigationPage.class
+tests\FullFlowTest.class
+tests\AnalyzeTest.class
+pages\AnalyzePage.class
